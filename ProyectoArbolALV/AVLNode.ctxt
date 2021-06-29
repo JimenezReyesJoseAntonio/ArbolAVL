@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AVLNode
+comment1.params=key\ boleto
+comment1.target=AVLNode(java.lang.Comparable,\ Boleto)
+comment1.text=Constructor\ recibe\ un\ objeto\ de\ la\ clase\ Comparable\ y\ un\ objeto\ del\ tipo\ boleto
+comment2.params=
+comment2.target=Boleto\ getBoleto()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TerminalAutobus
+comment1.params=clave\ ciudad\ nombre\ tipo
+comment1.target=TerminalAutobus(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
